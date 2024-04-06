@@ -3,5 +3,6 @@ public class App {
         ExercicioUm.resolve();
         ExercicioDois.resolve();
         ExercicioTres.resolve();
+        ExercicioQuatro.resolve();
     }
 }
