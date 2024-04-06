@@ -4,5 +4,6 @@ public class App {
         ExercicioDois.resolve();
         ExercicioTres.resolve();
         ExercicioQuatro.resolve();
+        ExercicioCinco.resolve();
     }
 }
